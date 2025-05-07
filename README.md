@@ -1,86 +1,98 @@
-# 👋 Hi, I'm Rithesh
+<h1 align="center">👋 Hi, I'm Rithesh Rao</h1>
 
-🎮 **Unity Game Developer** | 📅 *Aug 2018 – Present*  
-🏢 MobileDrive / Nukebox Studios / PTW / MPL / HCL Technologies
+<p align="center">
+  🎮 Unity Game Developer &nbsp;•&nbsp; 🧠 Problem Solver &nbsp;•&nbsp; 🚀 Tech Explorer  
+</p>
 
-📧 rithesh197rao@gmail.com &nbsp;&nbsp;📱 +91-9591896917  
-📍 Bengaluru, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/rithesh-rao-0b6091116) • [GitHub](https://github.com/ritheshrao197) • [Portfolio](https://ritheshrao.dev)
-
----
-
-## 🧑‍💼 Professional Summary
-
-Experienced Unity Developer with 6+ years of hands-on expertise in designing and developing mobile, PC, and HMI applications using Unity 3D and C#. Proven track record of leading teams, optimizing performance, and delivering scalable, production-ready gameplay and UI systems. Adept at collaborating with cross-functional teams, mentoring engineers, and building reusable code frameworks.
-
-🎯 Aspiring to transition into a **Unity Technical Lead** or **Game Tech Lead** role, contributing to innovative game development and team leadership.
+<p align="center">
+  <a href="mailto:rithesh197rao@gmail.com"><img src="https://img.shields.io/badge/email-rithesh197rao@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/rithesh-rao-0b6091116/"><img src="https://img.shields.io/badge/LinkedIn-Rithesh%20Rao-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/ritheshrao197"><img src="https://img.shields.io/badge/GitHub-ritheshrao197-black?style=flat-square&logo=github"></a>
+  <a href="https://ritheshrao.dev"><img src="https://img.shields.io/badge/Portfolio-ritheshrao.dev-blueviolet?style=flat-square&logo=google-chrome"></a>
+</p>
 
 ---
 
-## 💼 Experience
+### 🧑‍💼 Professional Summary
 
-### 🚗 Senior Application Developer  
-**MobileDrive Technology India Pvt. Ltd.** – Bengaluru  
-📅 *Feb 2024 – Present*  
-- Developed Unity HMI features for car infotainment systems under strict real-time constraints  
-- Implemented modular UI components and optimized rendering pipelines  
-- Collaborated with system engineers to integrate Unity with embedded C++ core systems  
-
-### 🎮 Unity Game Developer  
-**Nukebox Studios / PTW / MPL / HCL Technologies**  
-📅 *Aug 2018 – Jan 2024*  
-- Delivered multiple mobile and PC game titles, including *Food Truck Chef™* using Unity & C#  
-- Built scalable SDK integrations for analytics, IAP, ads, and notifications  
-- Refactored and architected reusable systems (Audio Manager, Stepper UI, Save/Load Manager)  
-- Mentored junior developers and led code reviews and optimization sprints  
-- Collaborated across production, QA, and design teams in agile workflows  
+> 🔧 Experienced Unity Developer with **6+ years** of building mobile, PC, and automotive HMI applications.  
+> 💡 Passionate about **clean architecture**, **modular design**, and mentoring future tech leaders.  
+> 🎯 **Aspiring Unity Tech Lead**, eager to innovate and elevate development teams and game systems.
 
 ---
 
-## 🔧 Technical Skills
+### 💼 Work Experience
 
-- **Game Engine:** Unity 3D (2021 LTS+), Unreal (basic)  
-- **Languages:** C#, C++, TypeScript  
-- **Tools:** Rider, TextMeshPro, DOTween, Addressables, Odin Inspector  
-- **Mobile Dev:** Android Studio, Xcode, Firebase, Unity IAP, AdMob  
-- **Others:** Git, GitHub Actions, Jenkins, CI/CD, Jira, Trello, Agile/Scrum  
+<details>
+<summary><b>🚗 Senior Application Developer — MobileDrive (Feb 2024 – Present)</b></summary>
 
----
+- Developed Unity HMI features for infotainment systems under real-time constraints.
+- Built modular UI components and optimized rendering for embedded devices.
+- Integrated Unity apps with core C++ systems in collaboration with system engineers.
+</details>
 
-## 🎓 Education
+<details>
+<summary><b>🎮 Unity Developer — Nukebox Studios / PTW / MPL / HCL (Aug 2018 – Jan 2024)</b></summary>
 
-- **M.Sc. in Data Science** *(Pursuing)* – Online, India  
-- **B.Tech in Computer Science and Engineering** – VTU (2018)  
-
----
-
-## 🚀 Projects Showcase
-
-| Project | Company | Description |
-|--------|---------|-------------|
-| **Food Truck Chef™** | Nukebox Studios | Gameplay logic, level loading, monetization systems |
-| **Unity QA Tools** | PTW | Regression tools for cross-platform testing |
-| **Arcade Mini-Games** | MPL | Bug fixing, integration, platform optimization |
-| **Car Infotainment UI** | HCL & MobileDrive | Dynamic settings, stepper controls, HMI simulations |
-| **Unity Audio System** | Internal | Built a modular audio system with pitch/fade/environment control |
-| **SDK Wrapper Framework** | Internal | Plug-and-play architecture for ad & analytics SDKs |
+- Delivered mobile/PC titles including **Food Truck Chef™**.
+- Created and refactored scalable systems (Audio Manager, Stepper UI, Save/Load).
+- Led performance optimization and mentored junior devs.
+- Built QA tools, integrated SDKs (IAP, Ads), and supported agile production.
+</details>
 
 ---
 
-## 🏅 Key Strengths
+### 🚀 Project Highlights
 
-- Unity architecture & clean code principles  
-- Game system design, debugging & optimization  
-- Mentoring, team leadership & agile collaboration  
-- Performance-minded UI and tool development  
+| Project | 🔍 Description |
+|--------|----------------|
+| 🎂 **Food Truck Chef™** | Built monetization, UI logic, and level loading |
+| 🛠 **Unity QA Tools** | Cross-platform test automation for PTW |
+| 🕹 **Arcade Mini-Games** | Game integration and updates at MPL |
+| 🚘 **Car HMI UI** | Dynamic settings, simulations, and infotainment controls |
+| 🔊 **Audio System** | Built fade-in/out, pitch-based audio manager |
+| 🧩 **SDK Wrapper** | Plug-and-play architecture for ads & analytics |
 
 ---
 
-## 📬 Let’s Connect!
+### 🛠️ Tech Stack
 
-I’m always open to collaboration, feedback, or opportunities to build exciting tech together.
+![Unity](https://img.shields.io/badge/Unity-3D-black?style=flat-square&logo=unity)
+![C#](https://img.shields.io/badge/C%23-Developer-purple?style=flat-square&logo=csharp)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue?style=flat-square&logo=typescript)
+![Firebase](https://img.shields.io/badge/Firebase-Tools-yellow?style=flat-square&logo=firebase)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=flat-square&logo=git)
+![Jira](https://img.shields.io/badge/Jira-Agile-blue?style=flat-square&logo=jira)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/rithesh-rao-0b6091116) • [GitHub](https://github.com/ritheshrao197) • [Portfolio](https://ritheshrao.dev)  
-📧 rithesh197rao@gmail.com
+- 🧠 Unity Tools: TextMeshPro, DOTween, Odin, Addressables, Shader Graph  
+- 🔁 Platforms: Android, iOS, WebGL  
+- 🛠 IDEs: Rider, Visual Studio  
+- 🔧 Others: Jenkins, GitHub Actions, Agile, CI/CD  
 
-> ⭐ *Explore my repositories to see what I’ve been building. Thanks for stopping by!*
+---
+
+### 🎓 Education
+
+- 📘 **M.Sc. in Data Science (Ongoing)** — Online, India  
+- 🎓 **B.Tech in Computer Science** — XYZ University, 2018  
+
+---
+
+### 🧠 Key Strengths
+
+- 💡 Strong Unity architecture, clean code, and reusable systems  
+- 🤝 Mentorship & team leadership experience  
+- 🚀 Performance optimization & debugging in production systems  
+- 🧪 Collaborative workflows with QA, Design, and System teams  
+
+---
+
+### 📫 Contact Me
+
+```yaml
+📍 Location: Bengaluru, India
+📧 Email: rithesh197rao@gmail.com
+📱 Phone: +91-9591896917
+🌐 Portfolio: https://ritheshrao.dev
+🔗 LinkedIn: https://linkedin.com/in/rithesh-rao-0b6091116
+💻 GitHub: https://github.com/ritheshrao197
