@@ -247,7 +247,8 @@ Real-time infotainment UI system optimized for constrained automotive hardware.
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=ritheshrao197&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ritheshrao197&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ritheshrao197&theme=tokyonight&hide_border=true"/> 
+<img src="https://github-profile-trophy.vercel.app/?username=ritheshrao197&theme=algolia&no-frame=true&margin-w=15"/>
 
 </div>
 
@@ -255,8 +256,8 @@ Real-time infotainment UI system optimized for constrained automotive hardware.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritheshrao197&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritheshrao197&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/> -->
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritheshrao197&show_icons=true&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -296,6 +297,7 @@ Real-time infotainment UI system optimized for constrained automotive hardware.
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ritheshrao197/ritheshrao197/main/profile-3d-contrib/profile-night-green.svg"/>
+<img src="https://raw.githubusercontent.com/ritheshrao197/ritheshrao197/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
 </div>
 
