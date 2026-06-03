@@ -111,9 +111,81 @@ Current Focus:
 
 ---
 
-# 🏆 Featured Projects
 
-<details open>
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ritheshrao197&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ritheshrao197&theme=tokyonight&hide_border=true"/> 
+<img src="https://github-profile-trophy.vercel.app/?username=ritheshrao197&theme=algolia&no-frame=true&margin-w=15"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritheshrao197&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/> -->
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritheshrao197&show_icons=true&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+# 📈 Live Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritheshrao197&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ritheshrao197/ritheshrao197/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+
+
+# 🌌 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ritheshrao197/ritheshrao197/main/profile-3d-contrib/profile-night-green.svg"/>
+<img src="https://raw.githubusercontent.com/ritheshrao197/ritheshrao197/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+* 🚀 Advanced System Design
+* 🏗 Scalable Real-Time Architectures
+* 🎮 Multiplayer Optimization
+* 🚗 Unreal Engine HMI Pipelines
+* ⚡ High-Performance Unity Systems
+
+---
+
+# 📚 Learning Journey
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritheshrao197&theme=tokyonight"/>
+
+
+# 🏆 Featured Projects
+</div>
+<details>
 <summary><h2>🍳 Cat Chef Ava</h2></summary>
 
 ### 📌 Overview
@@ -240,86 +312,6 @@ Real-time infotainment UI system optimized for constrained automotive hardware.
 </details>
 
 ---
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ritheshrao197&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ritheshrao197&theme=tokyonight&hide_border=true"/> 
-<img src="https://github-profile-trophy.vercel.app/?username=ritheshrao197&theme=algolia&no-frame=true&margin-w=15"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritheshrao197&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/> -->
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritheshrao197&show_icons=true&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-# 📈 Live Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritheshrao197&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ritheshrao197/ritheshrao197/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ritheshrao197&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🌌 3D Contribution Calendar
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ritheshrao197/ritheshrao197/main/profile-3d-contrib/profile-night-green.svg"/>
-<img src="https://raw.githubusercontent.com/ritheshrao197/ritheshrao197/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-* 🚀 Advanced System Design
-* 🏗 Scalable Real-Time Architectures
-* 🎮 Multiplayer Optimization
-* 🚗 Unreal Engine HMI Pipelines
-* ⚡ High-Performance Unity Systems
-
----
-
-# 📚 Learning Journey
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritheshrao197&theme=tokyonight"/>
-
-</div>
 
 ---
 
