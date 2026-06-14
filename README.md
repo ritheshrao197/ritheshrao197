@@ -1,8 +1,10 @@
+# Hi there 👋 I'm Rithesh Rao
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,100:00F7FF&text=Rithesh%20Rao&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Unity%20Developer%20•%20Automotive%20HMI%20Engineer%20•%20System%20Architect&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,100:00F7FF&text=Rithesh%20Rao&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%23%20Engineer%20•%20.NET%20Developer%20•%20System%20Architect&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&lines=7%2B+Years+Building+Production-Ready+Unity+Applications;Automotive+HMI+Systems+Engineer;Scalable+Multiplayer+Architecture;Performance+Optimization+Specialist;Clean+Architecture+%7C+System+Design+%7C+Real-Time+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=7%2B+Years+Professional+C%23+Experience;.NET+Core+%7C+ASP.NET+Core+%7C+Entity+Framework;REST+API+Development+%7C+System+Design;Clean+Architecture+%7C+SOLID+Principles;Unity+Developer+Transitioning+to+.NET;Building+Scalable+Backend+Systems"/>
 
 <br/><br/>
 
@@ -30,63 +32,49 @@
 
 ---
 
-# ⚡ Developer Command Center
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritheshrao197&theme=tokyonight"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritheshrao197&theme=tokyonight" width="32%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritheshrao197&theme=tokyonight" width="32%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritheshrao197&theme=tokyonight&utcOffset=5.5" width="32%"/>
-
-</div>
-
----
-
 # 🚀 About Me
 
 ```yaml
 Name: Rithesh Rao
-Role: Senior Unity Developer
-Experience: 7+ Years
 
-Specialization:
+Role:
+  - C# Engineer
+  - .NET Developer
+  - Backend Engineer
+
+Experience:
+  - 7+ Years Professional C#
   - Unity Game Development
   - Automotive HMI Systems
-  - Multiplayer Architecture
-  - Real-Time Systems
-  - Performance Optimization
+
+Primary Skills:
+  - C#
+  - .NET Core / .NET 8
+  - ASP.NET Core
+  - Entity Framework Core
+  - REST APIs
+  - SQL Server
+  - System Design
 
 Current Focus:
-  - Scalable Architectures
+  - Enterprise .NET Development
+  - Backend Architecture
   - Clean Architecture
-  - Advanced System Design
-  - Unity Tech Lead Preparation
+  - Microservices
+  - Azure Cloud
 ```
 
 ---
 
 # 🧠 Engineering Expertise
 
-<div align="center">
-
-| 🎮 Game Development | 🚗 Automotive HMI        | 🏗 Architecture      |
-| ------------------- | ------------------------ | -------------------- |
-| Unity 3D            | Real-Time Systems        | Clean Architecture   |
-| Multiplayer Systems | Embedded UI              | SOLID Principles     |
-| Mobile Optimization | Automotive Visualization | Scalable Design      |
-| UI Toolkit          | Simulation Systems       | Modular Architecture |
-
-</div>
+| 🔷 .NET Stack         | 🏗 Architecture      | 🎮 Unity Background |
+| --------------------- | -------------------- | ------------------- |
+| .NET Core / .NET 8    | Clean Architecture   | Unity 3D            |
+| ASP.NET Core MVC      | SOLID Principles     | Multiplayer Systems |
+| REST APIs             | Dependency Injection | Mobile Optimization |
+| Entity Framework Core | Event-Driven Design  | UI Toolkit          |
+| SQL Server            | Modular Systems      | Performance Tuning  |
 
 ---
 
@@ -94,32 +82,23 @@ Current Focus:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,cs,git,docker,firebase,jenkins,visualstudio,vscode"/>
+### Backend & .NET
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,postman,azure"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/UI_Toolkit-20232A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DOTween-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Addressables-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Netcode-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mirror-3DDC84?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FSM-607D8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Object_Pooling-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-# 📊 GitHub Analytics
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ritheshrao197&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ritheshrao197&theme=tokyonight&hide_border=true"/> 
-<img src="https://github-profile-trophy.vercel.app/?username=ritheshrao197&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
 </div>
 
@@ -127,17 +106,53 @@ Current Focus:
 
 <div align="center">
 
-<!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritheshrao197&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/> -->
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritheshrao197&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Legacy Unity Experience
+
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Addressables-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UI_Toolkit-2196F3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Netcode-00599C?style=for-the-badge"/>
+
 </div>
 
 ---
 
-# 📈 Live Contribution Graph
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritheshrao197&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritheshrao197&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ritheshrao197&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritheshrao197&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ritheshrao197&theme=algolia&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritheshrao197&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -153,175 +168,159 @@ Current Focus:
 
 ---
 
-
-
-# 🌌 3D Contribution Calendar
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ritheshrao197/ritheshrao197/main/profile-3d-contrib/profile-night-green.svg"/>
-<img src="https://raw.githubusercontent.com/ritheshrao197/ritheshrao197/main/profile-3d-contrib/profile-night-rainbow.svg"/>
-
-</div>
-
----
-
 # 🎯 Current Focus
 
-* 🚀 Advanced System Design
-* 🏗 Scalable Real-Time Architectures
-* 🎮 Multiplayer Optimization
-* 🚗 Unreal Engine HMI Pipelines
-* ⚡ High-Performance Unity Systems
+* 🚀 Mastering .NET 8 & ASP.NET Core
+* 🏗 Building Enterprise REST APIs
+* 🔷 Advanced Entity Framework Core
+* ☁️ Azure Cloud & DevOps
+* 🧩 Microservices Architecture
+* 📚 Microsoft Certifications
+* 💼 Transitioning into Senior .NET Backend Roles
 
 ---
 
 # 📚 Learning Journey
 
-<div align="center">
+| Technology            | Status                 |
+| --------------------- | ---------------------- |
+| C# Fundamentals       | ✅ Expert (7+ Years)    |
+| OOP / Design Patterns | ✅ Expert               |
+| .NET Core             | ✅ Completed            |
+| ASP.NET Core          | ✅ Completed            |
+| Entity Framework Core | ✅ Completed            |
+| REST API Design       | ✅ Completed            |
+| SQL Server            | 🔄 Advanced Learning   |
+| Azure Cloud           | 🔄 In Progress         |
+| Microservices         | 🔄 In Progress         |
+| System Design         | 🔄 Continuous Learning |
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritheshrao197&theme=tokyonight"/>
+---
 
+# 🏆 Featured .NET Projects
 
-# 🏆 Featured Projects
-</div>
 <details>
-<summary><h2>🍳 Cat Chef Ava</h2></summary>
+<summary><h3>📋 Task Manager API</h3></summary>
 
-### 📌 Overview
+### Overview
 
-Polished iOS simulation game with scalable gameplay systems and optimized low-end device performance.
+Enterprise-grade REST API built using ASP.NET Core.
 
-### ⚡ Key Contributions
+### Features
 
-* Built scalable gameplay state machine
-* Implemented gesture-driven interaction systems
-* Managed iOS release pipeline
-* Optimized rendering & memory systems
+* JWT Authentication
+* Role-Based Authorization
+* CRUD Operations
+* Swagger Documentation
+* SQL Server Integration
 
-### 📈 Performance
+### Stack
 
-* Reduced memory usage by **28%**
-* Reduced draw calls from **180 → 95**
-* Stable **60 FPS** on older iPhones
+`.NET 8` • `ASP.NET Core` • `EF Core` • `SQL Server`
 
-### 🛠 Stack
+🔗 Add your repository link here
 
-`Unity 2022 LTS` `Addressables` `Firebase Remote Config`
+</details>
+
+<details>
+<summary><h3>🛒 E-Commerce Backend</h3></summary>
+
+### Overview
+
+Scalable backend system for online commerce.
+
+### Features
+
+* Product Catalog
+* Cart Management
+* Order Processing
+* Repository Pattern
+
+### Stack
+
+`.NET 8` • `Web API` • `Dapper` • `SQL Server`
+
+🔗 Add your repository link here
+
+</details>
+
+<details>
+<summary><h3>📝 Blog Platform MVC</h3></summary>
+
+### Overview
+
+Full-stack blogging application.
+
+### Features
+
+* Identity Authentication
+* Blog Management
+* Comments
+* Admin Dashboard
+
+### Stack
+
+`ASP.NET Core MVC` • `Identity` • `SQL Server`
+
+🔗 Add your repository link here
+
+</details>
+
+---
+
+# 🎮 Legacy Unity Experience
+
+<details>
+<summary><h3>🍳 Cat Chef Ava</h3></summary>
+
+### Highlights
+
+* Gameplay State Machine
+* Memory Optimization
+* iOS Release Management
+* Live Operations Support
 
 🎥 https://www.youtube.com/watch?v=peHROYqKBuM
 
 </details>
 
----
-
 <details>
-<summary><h2>🍔 Food Truck Chef</h2></summary>
+<summary><h3>🍔 Food Truck Chef</h3></summary>
 
-### 📌 Overview
+### Highlights
 
-Live mobile cooking game with 1M+ downloads focused on retention and engagement.
-
-### ⚡ Contributions
-
-* Gameplay loop optimization
-* Live feature updates
-* UI improvements
-* Retention system tuning
-
-### 🛠 Stack
-
-`Unity 2D` `DOTween` `Analytics` `REST APIs`
+* 1M+ Downloads
+* Live Events System
+* Analytics Integration
+* Performance Optimization
 
 🎥 https://www.youtube.com/watch?v=uTSEzJ3RZ64
 
 </details>
 
----
-
 <details>
-<summary><h2>🧩 WordNinja</h2></summary>
+<summary><h3>🚗 Automotive HMI System</h3></summary>
 
-### 📌 Overview
+### Highlights
 
-Word puzzle game with progression systems and analytics-driven optimization.
+* Real-Time UI Rendering
+* Automotive Hardware Optimization
+* Custom Shader Development
+* UI Toolkit
 
-### ⚡ Contributions
-
-* Built progression systems
-* Internal level editor tools
-* Firebase analytics integration
-* Optimized scene loading
-
-### 🛠 Stack
-
-`Unity UI Toolkit` `Firebase` `ScriptableObjects`
-
-🎥 https://www.youtube.com/watch?v=p1MQ3XyYljg
+🎥 https://www.youtube.com/watch?v=TEqoXg08BUk
 
 </details>
 
 ---
 
-<details>
-<summary><h2>🎮 MPL Unity SDK</h2></summary>
+# 💡 Developer Philosophy
 
-### 📌 Overview
-
-Reusable SDK powering multiplayer and real-money gaming experiences.
-
-### ⚡ Contributions
-
-* Reusable SDK modules
-* Multiplayer integration flows
-* API optimization
-* Reduced onboarding complexity
-
-### 📈 Impact
-
-Reduced integration effort by **~40%**
-
-### 🛠 Stack
-
-`RESTSharp` `JWT Auth` `Editor Tooling`
-
-</details>
-
----
-
-<details>
-<summary><h2>🚗 Automotive HMI System</h2></summary>
-
-### 📌 Overview
-
-Real-time infotainment UI system optimized for constrained automotive hardware.
-
-### ⚡ Contributions
-
-* Modular UI architecture
-* Embedded integration
-* Real-time rendering optimization
-* Low-latency interaction systems
-
-### 🛠 Stack
-
-`Unity UI Toolkit` `Custom Shaders` `CAN Bus Simulation`
-
-🎥 https://www.youtube.com/watch?v=TEqoXg08BUk&t=73s
-
-</details>
-
----
-
----
-
-# 💭 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
+> Clean code scales.
+>
+> Great architecture enables teams.
+>
+> Continuous learning creates opportunities.
 
 ---
 
@@ -333,7 +332,7 @@ Real-time infotainment UI system optimized for constrained automotive hardware.
 
 📧 [rithesh197rao@gmail.com](mailto:rithesh197rao@gmail.com)
 
-🌐 https://rithesh-portfolio.vercel.app/
+🌐 https://rithesh-portfolio.vercel.app
 
 🔗 https://linkedin.com/in/rithesh-rao-0b6091116
 
@@ -344,6 +343,8 @@ Real-time infotainment UI system optimized for constrained automotive hardware.
 ---
 
 <div align="center">
+
+### Building scalable .NET solutions one API at a time 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=140&section=footer"/>
 
