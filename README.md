@@ -43,7 +43,7 @@ Role:
   - Backend Engineer
 
 Experience:
-  - 7+ Years Professional C#
+  - 8+ Years Professional C#
   - Unity Game Development
   - Automotive HMI Systems
 
@@ -184,7 +184,7 @@ Current Focus:
 
 | Technology            | Status                 |
 | --------------------- | ---------------------- |
-| C# Fundamentals       | ✅ Expert (7+ Years)    |
+| C# Fundamentals       | ✅ Expert (8+ Years)    |
 | OOP / Design Patterns | ✅ Expert               |
 | .NET Core             | ✅ Completed            |
 | ASP.NET Core          | ✅ Completed            |
